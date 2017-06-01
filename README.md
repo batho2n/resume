@@ -1,6 +1,5 @@
-# resume
+# RESUME
 ## 1. Personal Information
---------
 + Name:             Jihoon Park
 + Gender:           Male
 + Birth:            June 20, 1984
@@ -9,17 +8,15 @@
 + Phone             No.: +82-10-2023-4541
 + E-mail Address:   batoh2n@gmail.com
 + Affiliation:      Manager in SK Telecom
---------
+
 
 ## 2. Education
---------
 + 2007.09 ~ 2013.02: Ph.D. in Dept. of Electrical Engineering, KAIST
 + 2005.02 ~ 2007.08: MS. in Dept. of Information and Communications Engineering, KAIST
 + 2002.02 ~ 2005.02: BS. in Dept. of Information and Communications Engineering, KAIST
---------
+
 
 ## 3. Researches
---------
 + Speech/Audio Codec
   + Speech Codec
     + Packet loss concealment at G.711
@@ -39,10 +36,9 @@
   + Vocoder for parametric speech synthesis
 + Sound classification
   + Door closing classification for car blackbox
---------
+
 
 ## 4. Skills
---------
 1. Programming
   + C/C++
   + Java
@@ -63,4 +59,3 @@
   + Windows
   + Mac
   + Linux(Ubuntu, CentOS)
---------
