@@ -1,5 +1,5 @@
 # resume
-1. Personal Information
+# 1. Personal Information
 --------
 + Name: Jihoon Park
 + Gender: Male
