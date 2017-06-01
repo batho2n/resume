@@ -1,14 +1,14 @@
 # resume
 ## 1. Personal Information
 --------
-+ Name: Jihoon Park
-+ Gender: Male
-+ Birth: June 20, 1984
-+ Nationality: Republic of Korea(ROK)
++ Name:             Jihoon Park
++ Gender:           Male
++ Birth:            June 20, 1984
++ Nationality:      Republic of Korea(ROK)
 + Address: 
-+ Phone No.: +82-10-2023-4541
-+ E-mail Address: batoh2n@gmail.com
-+ Affiliation: Manager in SK Telecom
++ Phone             No.: +82-10-2023-4541
++ E-mail Address:   batoh2n@gmail.com
++ Affiliation:      Manager in SK Telecom
 --------
 
 ## 2. Academic History
